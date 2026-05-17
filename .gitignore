@@ -1,4 +1,5 @@
 # Binaries
+*.exe
 *.exe~
 *.dll
 *.so
