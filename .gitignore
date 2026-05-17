@@ -1,0 +1,27 @@
+# Binaries
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Build output
+/build/
+/dist/
+
+# Go build cache / test binary
+*.test
+*.out
+
+# Editor / IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+workspace.xml
+
+# macOS
+.DS_Store
+
+# Logs / temp
+*.log
+*.tmp
