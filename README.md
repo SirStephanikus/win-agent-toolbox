@@ -10,6 +10,9 @@
 
 The first included utility is `win-agent-logtailer`, a Go-based command-line tool that monitors the local `ossec.log` file in real time. It acts as a native Windows equivalent to the Linux `tail -f` command and is intended for troubleshooting and monitoring Wazuh agent activity.
 
+![App-Start](images/start.png)
+![App-Running](images/run.png)
+
 ## Current tools
 
 ### win-agent-logtailer
