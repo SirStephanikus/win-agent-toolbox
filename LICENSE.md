@@ -1,4 +1,4 @@
-# win-agent-logtailer License
+# win-agent-logtailer and win-eventstats License
 
 Copyright (c) 2026 Stephan H. Wenderlich  
 Gray-Hat IT-Security Consulting Stephan H. Wenderlich  
