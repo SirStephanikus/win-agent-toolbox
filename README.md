@@ -135,12 +135,11 @@ win-agent-toolbox/
 │   │   └── main.go
 │   └── win-eventstats/
 │       └── main.go
+├── images/
 ├── LICENSE.md
 ├── README.md
 └── go.mod
 ```
-
-Future tools can be added under `cmd/` as separate self-contained utilities.
 
 ## Building from source
 
